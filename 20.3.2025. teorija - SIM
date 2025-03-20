@@ -1,0 +1,17 @@
+SIM (Subscriber Identity Module)
+SIM kartica sadrži: 
+   telefonski broj
+   IMSI (International Mobile Subscriber Identity) - 15 znamenkasti broj za identifikaciju korisnika u mreži
+   - sastoji se od tri dijela:
+   kôd države (MCC)
+   kôd mobilne mreže (MNC)
+   identifikacijski broj pretplatnika  
+   autentifikacijski ključ Ki
+   implementaciju algoritma za autentifikaciju, algoritma za generiranje sjedničkih ključeva
+   SMS (Short Message Service) poruke i kontakte
+
+-ima mikroprocesor te se generiranje ključeva kriptiranja događa unutar nje
+-svaki mobitel sadrži svoj jedinstveni broj IMEI (International Mobile Equipment Identity) – 15 znamenaka za identifikaciju svakog mobitela u mreži
+
+Kod uključivanja mobitela:
+-otkriva se u kojoj se ćeliji mobitel nalazi, provjerava se autentičnost i identitet opreme (preko IMSI) te se u VLR upisuje lokacija korisnika; VLR obavještava HLR o lokaciji korisnika; na taj način mreža zna gdje je koji mobitel i mobitel kojeg netko želi nazvati
