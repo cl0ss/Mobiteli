@@ -1,0 +1,10 @@
+- radna memorija za mobilne uređaje, gubi podatke kod nestanka struje
+ Low Power DDR – manja potrošnja struje u odnosu na DDR za PC 
+                                        (voltaža smanjena sa 2.5V na 1.8V)
+ DDR – double data rate – prenosi podatke za vrijeme i rastućeg i padajućeg brida takta
+- SDRAM – Synchronous – koristi se signal takta (kod prijašnjih askinkronih ga nije bilo) 
+                – Dynamic – bit podatka je pohranjen kao naboj u kondenzatoru 
+                    (za pohranu jednog bita potreban 1 kondenzator i jedan tranzistor) 
+                       (postoji i SRAM – Static – za pohranu jednog bita koristi
+                                                                    6 tranzistora! – skuplje ali brže)
+- RAM – random access memory – memorija sa slučajnim pristupom
