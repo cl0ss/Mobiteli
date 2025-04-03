@@ -1,0 +1,18 @@
+ podaci se šalju u obliku radiovalova (elektromagnetski val)
+      potrebna antena
+ Wi-Fi - skraćenica od Wireless Fidelity
+Dvije vrste spajanja:
+-Sa pristupnom točkom 
+(access point)
+-Bez pristupne točke
+(ad hoc)
+
+-Wi-Fi Direct – device to device link
+802.11 Wi-Fi
+802.3 Ethernet
+
+Uređaji koji koriste frekvencije od 2,4 GHz (slobodan pojas frekvencija) mogu biti ometani
+
+Sigurnost – treba osigurati zaštitu pristupa mreži i zaštitu podataka koji se šalju
+ WEP (Wired Equivalent Privacy) – originalna sigurnosna zaštita; razbijena je
+ WPA i WPA2 (Wi-Fi Protected Access) – nova zaštita
